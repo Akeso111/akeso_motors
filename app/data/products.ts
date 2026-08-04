@@ -186,7 +186,7 @@ export const products: Product[] = [
   image:"/images/products/toro/toroon.png",
 
   gallery:[
-    "/images/products/toro/toro.png",
+    "/images/products/toro/toronnon.png",
     "/images/products/toro/toroyan.png",
     "/images/products/toro/Toroo.png"
   ],
