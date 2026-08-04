@@ -36,18 +36,17 @@ export default function LogoReveal() {
       className="
       absolute
       z-30
-      top-[43%]
+      top-1/2
       left-1/2
       -translate-x-1/2
       -translate-y-1/2
       pointer-events-none
+      w-full
+      flex
+      justify-center
       "
 
     >
-
-
-
-
 
 
       <div
@@ -55,7 +54,8 @@ export default function LogoReveal() {
         className="
         relative
         overflow-hidden
-        px-8
+        px-4
+        sm:px-8
         py-3
         "
 
@@ -63,11 +63,7 @@ export default function LogoReveal() {
 
 
 
-
-
-
         {/* LOGO IŞIK TARAMASI */}
-
 
 
         <motion.div
@@ -119,10 +115,6 @@ export default function LogoReveal() {
 
 
 
-
-
-
-
         <motion.h1
 
 
@@ -157,11 +149,11 @@ export default function LogoReveal() {
 
           className="
           relative
-          text-5xl
+          text-4xl
           sm:text-6xl
           md:text-7xl
           font-extralight
-          tracking-[0.5em]
+          tracking-[0.35em]
           uppercase
           bg-gradient-to-r
           from-white
@@ -179,8 +171,6 @@ export default function LogoReveal() {
 
 
         </motion.h1>
-
-
 
 
 
