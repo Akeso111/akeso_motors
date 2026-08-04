@@ -188,8 +188,7 @@ export const products: Product[] = [
   gallery:[
     "/images/products/toro/toroön.png",
     "/images/products/toro/toroyan.png",
-    "/images/products/toro/toroo.png",
-    
+    "/images/products/toro/Toroo.png"
   ],
 
   subtitle:"Elektrikli yük taşımacılığı",
