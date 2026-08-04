@@ -15,7 +15,7 @@ const products = [
 
   {
     name:"Toro",
-    image:"/images/products/toro/toroön.png",
+    image:"/images/products/toro/toro.png",
     slug:"toro"
   }
 
