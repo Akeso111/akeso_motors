@@ -183,7 +183,7 @@ export const products: Product[] = [
 
   slug:"toro",
 
-  image:"/images/products/toro/toroön.png",
+  image:"/images/products/toro/toro.png",
 
   gallery:[
     "/images/products/toro/toroön.png",
